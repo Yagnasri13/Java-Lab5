@@ -73,3 +73,21 @@ class Lab5
 
   }
 }
+
+
+output:
+enter a string
+hai
+iah
+enter a string
+hello
+given string is not palindrom
+enter n value
+2
+enter  strings
+i am
+after sorting
+am
+i
+before sorting strings
+after sorting
